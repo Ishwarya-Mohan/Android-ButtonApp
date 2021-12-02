@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button app</string>
+    <string name="you_have_not_clicked_any_button" />
+    <string name="button1" />
+    <string name="button2" />
+    <string name="button3" />
+</resources>
